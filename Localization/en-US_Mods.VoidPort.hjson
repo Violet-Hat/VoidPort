@@ -1,0 +1,25 @@
+Items: {
+	ApocalyptiteItem: {
+		DisplayName: Apocalyptite Item
+		Tooltip: ""
+	}
+
+	DoomstoneItem: {
+		DisplayName: Doomstone Item
+		Tooltip: ""
+	}
+
+	SoftDoomstoneItem: {
+		DisplayName: Soft Doomstone Item
+		Tooltip: ""
+	}
+}
+
+Biomes: {
+	VoidBiome: {
+		DisplayName: Void Biome
+		TownNPCDialogueName: the Void Biome
+	}
+}
+
+NPCs.ZeroDeactivated.DisplayName: Zero Deactivated
