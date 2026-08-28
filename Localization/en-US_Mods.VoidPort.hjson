@@ -1,0 +1,89 @@
+Items: {
+	ApocalyptiteItem: {
+		DisplayName: Apocalyptite
+		Tooltip: ""
+	}
+
+	DoomstoneItem: {
+		DisplayName: Doomstone
+		Tooltip: ""
+	}
+
+	SoftDoomstoneItem: {
+		DisplayName: Soft Doomstone
+		Tooltip: ""
+	}
+
+	VoidWoodWallItem: {
+		Tooltip: ""
+		DisplayName: Void Wood Wall
+	}
+
+	VoidWoodItem: {
+		Tooltip: ""
+		DisplayName: Void Wood
+	}
+
+	SoftDoomstoneWallItem: {
+		Tooltip: ""
+		DisplayName: Soft Doomstone Wall
+	}
+
+	ScrapWallItem: {
+		Tooltip: ""
+		DisplayName: Scrap Wall
+	}
+
+	ScrapItem: {
+		Tooltip: ""
+		DisplayName: Scrap
+	}
+
+	DoomstoneWallItem: {
+		Tooltip: ""
+		DisplayName: Doomstone Wall
+	}
+
+	VoidChestItem: {
+		DisplayName: Void Chest Item
+		Tooltip: ""
+	}
+
+	ScrapPlatingItem: {
+		Tooltip: ""
+		DisplayName: Scrap Plating Item
+	}
+
+	VoidSaber: {
+		DisplayName: Void Saber
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	VoidTreeSappling.MapEntry: Void Tree Sappling
+	VoidChest.MapEntry: Void Chest
+}
+
+Biomes: {
+	VoidBiome: {
+		DisplayName: Void Biome
+		TownNPCDialogueName: the Void
+	}
+}
+
+NPCs: {
+	ZeroDeactivated.DisplayName: Strange Machine
+	StoneSearcher.DisplayName: Stone Searcher
+	ScrapMine.DisplayName: Scrap Mine
+}
+
+Bestiary: {
+	StoneSearcher: Test 1
+	ScrapMine: Test 2
+}
+
+Projectiles: {
+	BaseSwingProjectile.DisplayName: Base Swing Projectile
+	VoidSaberProjectile.DisplayName: Void Saber Projectile
+}

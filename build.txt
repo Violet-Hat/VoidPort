@@ -1,0 +1,5 @@
+displayName = Project Zodiac
+author = The Ancient Studios Team
+version = 0.1
+
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
